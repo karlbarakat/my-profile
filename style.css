@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,400;1,500&display=swap');
+
+
+h1 {
+	color: white;
+	font-family: Medium 500;
+	font-weight: 100;
+	letter-spacing: 10px;
+	font-size: 30px;
+	text-align: center;
+	background-color: #013a57;
+
+}
+div	{
+	background-color: #013a57;
+}
+
+
+	<style>
+		.justify-between {
+    	justify-content: space-between;
+}
+
+	<style>
+		.flex {
+   		display: flex;
+}
+	<style>
+	ol, ul {
+    	list-style: none;
+ }
+
+	.justify-between {
+		padding: 0;
+		list-style: none;
+	}
+
+	.justify-between li {
+		display: inline;
+		margin: 0 16 px;
+		font-size: 20px; 
+}
+
+
+h2 {	
+	color: #048b9a;
+	font-family: Medium 500;
+	font-weight: 100;
+	letter-spacing: 10px;
+	font-size: 30px;
+	text-align: center;
+}
+
+Body {
+	font-family: 'Lora', serif;
+	background-color: rgb(165, 165, 165);
+	line-height: 3;
+	letter-spacing: 1px;
+	font-weight: lighter;
+	background-color: #EFEFEF;
+
+}
+
+h3 {
+	color: #048b9a;
+	font-family: Medium 500;
+	font-weight: 100;
+	letter-spacing: 10px;
+	font-size: 30px;
+	text-align: center;
+}
+
+h4 {
+	color: #048b9a;
+	font-family: Medium 500;
+	font-weight: 100;
+	letter-spacing: 10px;
+	font-size: 30px;
+	text-align: center;
+}
+
+img { 
+	text-align: center;
+ }
+
+div {
+	margin: 0 auto;
+	border: 1px solid #EFEFEF;
+	background-color: white ; 
+	text-align: center;
+	border-radius: 6px;
+	padding: 24px;
+	width: 70%;
+	box-shadow: 1px 1px 5px 2px #00000096;
+}
+
+#avatar {
+	width: 330px;
+	height: 330px;
+	object-fit: cover;
+	border-radius: 50%;
+	border: 1px solid black;
+}
+
+#avatar1 {
+	width: 330px;
+	height: 330px;
+	object-fit: cover;
+	border: 1px solid black;
+}
+
+/*commentaire*/
+a{ 
+	text-decoration: none;
+}
+
+	.btn-blue {
+		color: white;
+		background-color: #013a57 ; 
+		padding: 8px 16px;
+		border-radius: 6px;
+		font-weight: bolder;
+		border: 1px #013a57 ;
+		transition: 1s;
+}
+
+	.btn-blue:hover {
+		background-color: black;
+		color: #013a57;
+		transition: 1s;
+}
+
+	.list-inline {
+		padding: 0;
+		list-style: none;
+	}
+
+	.list-inline li {
+		display: inline;
+		margin: 0 16 px;
+		font-size: 40px;
+}
+
+	.fa-brands {
+		color: rgba(0, 0, 0, 0, 4);
+}
+
+	.fa-brands {
+		color: black;
+}
+
+@media (max-width: 575.98) {
+	div {
+		width: 250px;
+}
+
+@media (max-width: 767.98) {
+	div {
+		width: 400px;
+}
+@media (max-width: 991.98) {}
+@media (max-width: 1199.98) {}
+@media (max-width: 1399.98) {}
+
+
+
+
+
